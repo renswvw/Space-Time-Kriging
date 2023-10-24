@@ -1,4 +1,4 @@
-# Space-Time-Kriging 
+# Space-Time Kriging for Climate Surface Interpolations
 
 This report summarizes the outcomes of the GIMA internship at the Centre for Geographical Analysis (CGA), a research institution associated to the University of Stellenbosch in South Africa. The CGA specializes in GIS and strives to advance spatial information management for the benefit of the Southern African community.
 
